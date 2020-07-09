@@ -7,6 +7,6 @@ namespace WebApplication1.App_Start
 {
     public class Class2
     {
-        public long MyProperty { get; set; }
+       
     }
 }
