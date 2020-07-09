@@ -7,5 +7,6 @@ namespace WebApplication1.App_Start
 {
     public class Class1
     {
+        public int MyProperty { get; set; }
     }
 }
