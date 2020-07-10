@@ -9,5 +9,6 @@ namespace WebApplication1.App_Start
     {
         public int cc1 { get; set; }
         public int cc2 { get; set; }
+        public int cc3 { get; set; }
     }
 }
