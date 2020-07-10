@@ -9,5 +9,7 @@ namespace WebApplication1.App_Start
     {
         public int AgainComment1 { get; set; }
         public int AgainComment2 { get; set; }
+
+        public int AgainComment3 { get; set; }
     }
 }
