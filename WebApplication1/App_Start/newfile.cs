@@ -7,5 +7,7 @@ namespace WebApplication1.App_Start
 {
     public class newfile
     {
+        public int Comment1 { get; set; }
+        
     }
 }
