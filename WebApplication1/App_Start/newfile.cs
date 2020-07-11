@@ -9,6 +9,5 @@ namespace WebApplication1.App_Start
     {
         public int abc1 { get; set; }
         public int abc2 { get; set; }
-        public int abc3 { get; set; }
     }
 }
