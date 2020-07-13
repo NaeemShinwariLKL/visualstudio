@@ -17,5 +17,7 @@ namespace WebApplication1.App_Start
 
         public int anotherchange { get; set; }
         public int another_always { get; set; }
+        public int another_always1 { get; set; }
+        public int master_to_featured { get; set; }
     }
 }
