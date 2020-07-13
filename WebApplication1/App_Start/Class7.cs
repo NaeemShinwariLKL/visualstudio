@@ -16,5 +16,6 @@ namespace WebApplication1.App_Start
         public int Change { get; set; }
 
         public int anotherchange { get; set; }
+        public int another_always { get; set; }
     }
 }
