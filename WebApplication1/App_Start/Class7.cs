@@ -14,5 +14,7 @@ namespace WebApplication1.App_Start
         public int Hello1 { get; set; }
 
         public int Change { get; set; }
+
+        public int anotherchange { get; set; }
     }
 }
