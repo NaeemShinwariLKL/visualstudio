@@ -10,5 +10,6 @@ namespace WebApplication1.App_Start
         public int MyProperty1 { get; set; }
 
         public int MyProperty2 { get; set; }
+        public int MyPropertyRebaseChecking { get; set; }
     }
 }
