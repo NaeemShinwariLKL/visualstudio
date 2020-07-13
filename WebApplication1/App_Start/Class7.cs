@@ -12,5 +12,7 @@ namespace WebApplication1.App_Start
         public int MyProperty2 { get; set; }
         public int changesinmaster { get; set; }
         public int Hello1 { get; set; }
+
+        public int Change { get; set; }
     }
 }
